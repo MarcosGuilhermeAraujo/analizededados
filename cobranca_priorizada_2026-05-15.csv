@@ -1,0 +1,1332 @@
+id_devedor,valor_devido,dias_atraso,prioridade_final,acao_sugerida
+1,10637.31,129,alto,Cobrar cliente
+464,7981.14,114,alto,Cobrar cliente
+465,9573.99,186,alto,Cobrar cliente
+468,9255.42,156,alto,Cobrar cliente
+470,9314.2,123,alto,Cobrar cliente
+1011,15865.35,73,alto,Cobrar cliente
+476,15620.7,73,alto,Cobrar cliente
+478,12004.12,189,alto,Cobrar cliente
+483,8017.61,98,alto,Cobrar cliente
+484,12936.59,164,alto,Cobrar cliente
+485,14204.67,109,alto,Cobrar cliente
+1001,18382.2,133,alto,Cobrar cliente
+999,11027.73,101,alto,Cobrar cliente
+996,5129.03,101,alto,Cobrar cliente
+491,15196.23,130,alto,Cobrar cliente
+994,7912.79,119,alto,Cobrar cliente
+1017,9347.33,161,alto,Cobrar cliente
+461,5397.95,103,alto,Cobrar cliente
+1018,12749.04,130,alto,Cobrar cliente
+1019,5709.56,145,alto,Cobrar cliente
+436,5924.86,105,alto,Cobrar cliente
+437,11021.02,160,alto,Cobrar cliente
+1036,12905.18,104,alto,Cobrar cliente
+1030,5203.49,220,alto,Cobrar cliente
+444,7834.79,149,alto,Cobrar cliente
+1029,10507.56,145,alto,Cobrar cliente
+1027,10231.79,115,alto,Cobrar cliente
+993,6520.72,156,alto,Cobrar cliente
+449,13418.5,106,alto,Cobrar cliente
+1025,16255.11,58,alto,Cobrar cliente
+452,16901.6,90,alto,Cobrar cliente
+453,5415.58,145,alto,Cobrar cliente
+1024,10636.67,150,alto,Cobrar cliente
+1023,21986.25,52,alto,Cobrar cliente
+1021,8094.47,101,alto,Cobrar cliente
+458,18551.04,227,alto,Cobrar cliente
+450,10013.36,108,alto,Cobrar cliente
+496,49484.25,313,alto,Cobrar cliente
+990,8169.74,139,alto,Cobrar cliente
+499,44220.82,339,alto,Cobrar cliente
+969,7510.4,129,alto,Cobrar cliente
+528,12163.29,115,alto,Cobrar cliente
+529,9071.35,94,alto,Cobrar cliente
+530,7105.02,113,alto,Cobrar cliente
+968,10568.29,123,alto,Cobrar cliente
+532,5716.74,140,alto,Cobrar cliente
+967,5797.93,153,alto,Cobrar cliente
+526,8026.39,161,alto,Cobrar cliente
+534,14589.76,228,alto,Cobrar cliente
+536,6229.27,249,alto,Cobrar cliente
+539,18834.95,112,alto,Cobrar cliente
+963,9764.69,136,alto,Cobrar cliente
+542,15117.35,160,alto,Cobrar cliente
+544,6036.5,93,alto,Cobrar cliente
+545,9520.2,140,alto,Cobrar cliente
+961,7065.46,118,alto,Cobrar cliente
+535,13694.27,92,alto,Cobrar cliente
+1040,15092.72,95,alto,Cobrar cliente
+970,12411.29,233,alto,Cobrar cliente
+972,10096.87,127,alto,Cobrar cliente
+989,8247.51,197,alto,Cobrar cliente
+501,6910.53,127,alto,Cobrar cliente
+502,13207.0,157,alto,Cobrar cliente
+988,8161.12,101,alto,Cobrar cliente
+505,10993.18,145,alto,Cobrar cliente
+507,7734.34,142,alto,Cobrar cliente
+984,19378.07,50,alto,Cobrar cliente
+524,6287.57,113,alto,Cobrar cliente
+982,7088.24,95,alto,Cobrar cliente
+981,11197.27,106,alto,Cobrar cliente
+980,7355.35,161,alto,Cobrar cliente
+977,7185.76,174,alto,Cobrar cliente
+974,16029.99,119,alto,Cobrar cliente
+518,12282.11,94,alto,Cobrar cliente
+520,6243.82,147,alto,Cobrar cliente
+521,15686.87,113,alto,Cobrar cliente
+510,16908.09,168,alto,Cobrar cliente
+1041,18048.87,69,alto,Cobrar cliente
+432,12620.77,92,alto,Cobrar cliente
+431,17244.81,162,alto,Cobrar cliente
+1098,15774.82,121,alto,Cobrar cliente
+1097,14637.66,93,alto,Cobrar cliente
+355,7435.7,184,alto,Cobrar cliente
+1096,11379.25,174,alto,Cobrar cliente
+359,6737.94,112,alto,Cobrar cliente
+1093,43993.29,336,alto,Cobrar cliente
+1091,11922.99,132,alto,Cobrar cliente
+1100,8886.59,112,alto,Cobrar cliente
+363,13395.83,92,alto,Cobrar cliente
+1089,12198.28,157,alto,Cobrar cliente
+1086,11162.64,135,alto,Cobrar cliente
+1085,18331.88,1,alto,Cobrar cliente
+1083,14782.28,123,alto,Cobrar cliente
+372,6505.41,181,alto,Cobrar cliente
+373,17437.29,47,alto,Cobrar cliente
+1082,8383.8,107,alto,Cobrar cliente
+364,9988.79,139,alto,Cobrar cliente
+375,7217.83,133,alto,Cobrar cliente
+1103,17833.59,120,alto,Cobrar cliente
+346,16779.47,93,alto,Cobrar cliente
+1121,12602.44,93,alto,Cobrar cliente
+322,15875.69,71,alto,Cobrar cliente
+1120,10366.66,112,alto,Cobrar cliente
+324,18620.96,82,alto,Cobrar cliente
+1119,9514.72,116,alto,Cobrar cliente
+326,9881.8,203,alto,Cobrar cliente
+327,18647.15,60,alto,Cobrar cliente
+347,9074.34,153,alto,Cobrar cliente
+1118,14437.2,120,alto,Cobrar cliente
+1115,10135.76,175,alto,Cobrar cliente
+332,8173.9,106,alto,Cobrar cliente
+334,13629.23,146,alto,Cobrar cliente
+337,8295.23,152,alto,Cobrar cliente
+1110,10827.84,107,alto,Cobrar cliente
+342,17566.74,20,alto,Cobrar cliente
+1106,7830.97,124,alto,Cobrar cliente
+329,10427.4,100,alto,Cobrar cliente
+960,6562.92,140,alto,Cobrar cliente
+376,13667.64,132,alto,Cobrar cliente
+378,9039.25,132,alto,Cobrar cliente
+1053,16010.84,13,alto,Cobrar cliente
+412,7536.75,149,alto,Cobrar cliente
+414,15793.0,183,alto,Cobrar cliente
+415,16623.88,82,alto,Cobrar cliente
+1049,9640.2,113,alto,Cobrar cliente
+418,49197.63,306,alto,Cobrar cliente
+1048,7799.49,94,alto,Cobrar cliente
+410,7974.96,108,alto,Cobrar cliente
+420,12836.21,92,alto,Cobrar cliente
+422,17032.46,189,alto,Cobrar cliente
+423,12534.7,153,alto,Cobrar cliente
+1046,49971.79,357,alto,Cobrar cliente
+426,9749.26,126,alto,Cobrar cliente
+427,5293.35,158,alto,Cobrar cliente
+428,19989.69,1,alto,Cobrar cliente
+430,10325.9,153,alto,Cobrar cliente
+1047,11535.41,113,alto,Cobrar cliente
+377,6855.39,117,alto,Cobrar cliente
+409,10475.29,133,alto,Cobrar cliente
+1057,8622.5,105,alto,Cobrar cliente
+1080,10853.59,114,alto,Cobrar cliente
+1076,5867.43,146,alto,Cobrar cliente
+382,11903.13,121,alto,Cobrar cliente
+1074,9669.99,153,alto,Cobrar cliente
+385,11808.34,166,alto,Cobrar cliente
+1071,16721.58,96,alto,Cobrar cliente
+389,16405.17,16,alto,Cobrar cliente
+1056,10535.45,131,alto,Cobrar cliente
+1069,8604.19,140,alto,Cobrar cliente
+1065,42096.12,325,alto,Cobrar cliente
+791,8534.61,137,alto,Cobrar cliente
+1063,15184.21,163,alto,Cobrar cliente
+398,13995.44,209,alto,Cobrar cliente
+399,6292.56,103,alto,Cobrar cliente
+403,11562.21,154,alto,Cobrar cliente
+404,10690.35,101,alto,Cobrar cliente
+1068,10954.64,117,alto,Cobrar cliente
+1122,10655.77,135,alto,Cobrar cliente
+956,17343.17,156,alto,Cobrar cliente
+555,11722.55,106,alto,Cobrar cliente
+714,15775.29,185,alto,Cobrar cliente
+715,7967.6,107,alto,Cobrar cliente
+842,10988.26,124,alto,Cobrar cliente
+717,46362.91,305,alto,Cobrar cliente
+841,6898.31,160,alto,Cobrar cliente
+837,13699.1,151,alto,Cobrar cliente
+723,15441.2,65,alto,Cobrar cliente
+835,19882.37,167,alto,Cobrar cliente
+725,10867.18,121,alto,Cobrar cliente
+726,15774.09,111,alto,Cobrar cliente
+728,18741.97,98,alto,Cobrar cliente
+832,14682.41,114,alto,Cobrar cliente
+829,9252.79,143,alto,Cobrar cliente
+827,16605.18,125,alto,Cobrar cliente
+826,5128.58,218,alto,Cobrar cliente
+713,12875.87,142,alto,Cobrar cliente
+711,9402.32,138,alto,Cobrar cliente
+710,17489.32,75,alto,Cobrar cliente
+707,8309.7,191,alto,Cobrar cliente
+679,17393.19,45,alto,Cobrar cliente
+872,6495.82,101,alto,Cobrar cliente
+871,9292.78,128,alto,Cobrar cliente
+865,6294.27,101,alto,Cobrar cliente
+685,14278.58,110,alto,Cobrar cliente
+687,13731.58,204,alto,Cobrar cliente
+863,6367.67,106,alto,Cobrar cliente
+738,5961.2,163,alto,Cobrar cliente
+690,6978.51,106,alto,Cobrar cliente
+859,14671.52,103,alto,Cobrar cliente
+693,17165.48,99,alto,Cobrar cliente
+853,9034.9,115,alto,Cobrar cliente
+701,10698.01,154,alto,Cobrar cliente
+847,18127.01,122,alto,Cobrar cliente
+846,15864.6,26,alto,Cobrar cliente
+706,17036.6,129,alto,Cobrar cliente
+860,7553.11,211,alto,Cobrar cliente
+824,13155.93,110,alto,Cobrar cliente
+740,12705.96,131,alto,Cobrar cliente
+741,9970.11,147,alto,Cobrar cliente
+803,15851.85,89,alto,Cobrar cliente
+772,13868.8,162,alto,Cobrar cliente
+802,7319.81,152,alto,Cobrar cliente
+801,13351.17,144,alto,Cobrar cliente
+800,5234.96,173,alto,Cobrar cliente
+799,18549.12,164,alto,Cobrar cliente
+797,10578.33,109,alto,Cobrar cliente
+805,8388.68,170,alto,Cobrar cliente
+779,7221.83,143,alto,Cobrar cliente
+793,11771.5,170,alto,Cobrar cliente
+782,16410.89,67,alto,Cobrar cliente
+783,10000.48,179,alto,Cobrar cliente
+792,11673.01,139,alto,Cobrar cliente
+785,6719.63,183,alto,Cobrar cliente
+786,11025.31,132,alto,Cobrar cliente
+787,5052.46,133,alto,Cobrar cliente
+794,42120.92,348,alto,Cobrar cliente
+873,14723.31,93,alto,Cobrar cliente
+769,5225.1,105,alto,Cobrar cliente
+809,8695.16,132,alto,Cobrar cliente
+823,10063.29,169,alto,Cobrar cliente
+822,9159.42,128,alto,Cobrar cliente
+744,14636.54,127,alto,Cobrar cliente
+745,5254.18,162,alto,Cobrar cliente
+746,13564.22,98,alto,Cobrar cliente
+748,7062.65,148,alto,Cobrar cliente
+749,16993.45,36,alto,Cobrar cliente
+806,10998.83,121,alto,Cobrar cliente
+820,9109.24,106,alto,Cobrar cliente
+753,12743.62,98,alto,Cobrar cliente
+754,9499.82,99,alto,Cobrar cliente
+756,10859.82,164,alto,Cobrar cliente
+757,14266.62,142,alto,Cobrar cliente
+760,5822.73,200,alto,Cobrar cliente
+761,9021.79,91,alto,Cobrar cliente
+810,9992.4,114,alto,Cobrar cliente
+818,6795.61,117,alto,Cobrar cliente
+676,11991.88,115,alto,Cobrar cliente
+875,7690.18,151,alto,Cobrar cliente
+673,46700.46,302,alto,Cobrar cliente
+582,14908.15,101,alto,Cobrar cliente
+583,8066.47,128,alto,Cobrar cliente
+941,11208.2,114,alto,Cobrar cliente
+587,9902.96,147,alto,Cobrar cliente
+936,11041.02,174,alto,Cobrar cliente
+589,7308.49,124,alto,Cobrar cliente
+935,17112.73,73,alto,Cobrar cliente
+944,10332.78,166,alto,Cobrar cliente
+593,7393.74,213,alto,Cobrar cliente
+925,9154.73,99,alto,Cobrar cliente
+924,9199.25,98,alto,Cobrar cliente
+601,12980.18,169,alto,Cobrar cliente
+602,7718.63,146,alto,Cobrar cliente
+920,12749.65,112,alto,Cobrar cliente
+606,14465.75,155,alto,Cobrar cliente
+608,5168.81,97,alto,Cobrar cliente
+594,6896.43,110,alto,Cobrar cliente
+609,5881.27,147,alto,Cobrar cliente
+578,10267.07,151,alto,Cobrar cliente
+945,7342.7,157,alto,Cobrar cliente
+953,15899.06,85,alto,Cobrar cliente
+557,8984.26,97,alto,Cobrar cliente
+558,18028.77,199,alto,Cobrar cliente
+559,11972.35,111,alto,Cobrar cliente
+951,46227.23,340,alto,Cobrar cliente
+562,15166.35,35,alto,Cobrar cliente
+564,5812.31,155,alto,Cobrar cliente
+577,19451.27,60,alto,Cobrar cliente
+565,10829.07,127,alto,Cobrar cliente
+568,10935.59,110,alto,Cobrar cliente
+569,15503.28,1,alto,Cobrar cliente
+570,9348.67,156,alto,Cobrar cliente
+571,6996.0,172,alto,Cobrar cliente
+946,40641.99,311,alto,Cobrar cliente
+574,7795.38,122,alto,Cobrar cliente
+575,5476.18,104,alto,Cobrar cliente
+949,12477.81,212,alto,Cobrar cliente
+552,9312.1,108,alto,Cobrar cliente
+610,9361.11,210,alto,Cobrar cliente
+612,9644.18,125,alto,Cobrar cliente
+647,11300.59,106,alto,Cobrar cliente
+648,17437.04,111,alto,Cobrar cliente
+649,18208.91,24,alto,Cobrar cliente
+894,7961.5,107,alto,Cobrar cliente
+652,17555.24,32,alto,Cobrar cliente
+892,10984.79,114,alto,Cobrar cliente
+891,9663.52,98,alto,Cobrar cliente
+896,10060.07,118,alto,Cobrar cliente
+657,13193.2,118,alto,Cobrar cliente
+887,6302.28,169,alto,Cobrar cliente
+885,8391.1,120,alto,Cobrar cliente
+663,10730.73,130,alto,Cobrar cliente
+664,13229.82,279,alto,Cobrar cliente
+881,6332.21,126,alto,Cobrar cliente
+669,12651.25,100,alto,Cobrar cliente
+672,6778.71,170,alto,Cobrar cliente
+888,9615.92,109,alto,Cobrar cliente
+611,9062.09,124,alto,Cobrar cliente
+645,11971.54,199,alto,Cobrar cliente
+642,5235.38,91,alto,Cobrar cliente
+614,8564.72,114,alto,Cobrar cliente
+618,19686.44,79,alto,Cobrar cliente
+619,6235.04,112,alto,Cobrar cliente
+621,15055.79,1,alto,Cobrar cliente
+623,15912.89,99,alto,Cobrar cliente
+909,15559.15,117,alto,Cobrar cliente
+908,6208.89,186,alto,Cobrar cliente
+644,13131.71,210,alto,Cobrar cliente
+626,14297.34,131,alto,Cobrar cliente
+630,5985.0,151,alto,Cobrar cliente
+634,45363.26,340,alto,Cobrar cliente
+635,9916.52,106,alto,Cobrar cliente
+637,14806.31,191,alto,Cobrar cliente
+639,14801.78,123,alto,Cobrar cliente
+640,12893.8,142,alto,Cobrar cliente
+898,11098.06,156,alto,Cobrar cliente
+629,7342.4,191,alto,Cobrar cliente
+319,6748.01,147,alto,Cobrar cliente
+789,5489.95,143,alto,Cobrar cliente
+1124,5474.61,122,alto,Cobrar cliente
+198,18680.71,52,alto,Cobrar cliente
+67,16323.79,162,alto,Cobrar cliente
+1202,7520.49,107,alto,Cobrar cliente
+195,10854.67,179,alto,Cobrar cliente
+69,15472.86,61,alto,Cobrar cliente
+192,47738.59,301,alto,Cobrar cliente
+191,12781.15,131,alto,Cobrar cliente
+71,17911.35,60,alto,Cobrar cliente
+188,6532.87,168,alto,Cobrar cliente
+187,14999.72,137,alto,Cobrar cliente
+1207,12477.48,106,alto,Cobrar cliente
+72,15329.45,100,alto,Cobrar cliente
+185,7137.02,178,alto,Cobrar cliente
+1280,12593.32,119,alto,Cobrar cliente
+73,6308.7,135,alto,Cobrar cliente
+183,6746.24,130,alto,Cobrar cliente
+182,8886.63,153,alto,Cobrar cliente
+181,47732.67,347,alto,Cobrar cliente
+1210,12489.21,105,alto,Cobrar cliente
+1277,11981.8,96,alto,Cobrar cliente
+179,16308.59,105,alto,Cobrar cliente
+1211,47847.83,339,alto,Cobrar cliente
+75,5038.16,107,alto,Cobrar cliente
+76,17659.94,106,alto,Cobrar cliente
+1276,18042.81,49,alto,Cobrar cliente
+174,12532.63,147,alto,Cobrar cliente
+1216,7577.18,192,alto,Cobrar cliente
+172,12026.73,101,alto,Cobrar cliente
+1209,5726.0,121,alto,Cobrar cliente
+171,9129.61,264,alto,Cobrar cliente
+199,11056.1,106,alto,Cobrar cliente
+1200,8399.83,127,alto,Cobrar cliente
+1181,9795.26,140,alto,Cobrar cliente
+1182,8104.45,94,alto,Cobrar cliente
+1183,15298.47,64,alto,Cobrar cliente
+224,22320.46,107,alto,Cobrar cliente
+223,6422.65,141,alto,Cobrar cliente
+1297,7724.01,174,alto,Cobrar cliente
+1295,16122.22,38,alto,Cobrar cliente
+1186,17065.04,110,alto,Cobrar cliente
+219,7847.53,134,alto,Cobrar cliente
+1187,5578.64,98,alto,Cobrar cliente
+1188,10606.47,107,alto,Cobrar cliente
+1189,15565.58,71,alto,Cobrar cliente
+1294,43361.05,331,alto,Cobrar cliente
+200,14562.47,145,alto,Cobrar cliente
+1293,10093.97,97,alto,Cobrar cliente
+1191,15209.94,20,alto,Cobrar cliente
+212,9351.01,159,alto,Cobrar cliente
+1289,8768.33,93,alto,Cobrar cliente
+108,6814.82,138,alto,Cobrar cliente
+1287,12500.96,177,alto,Cobrar cliente
+61,6453.32,131,alto,Cobrar cliente
+1286,12246.15,150,alto,Cobrar cliente
+1285,9532.79,221,alto,Cobrar cliente
+208,7916.13,127,alto,Cobrar cliente
+1194,9592.04,151,alto,Cobrar cliente
+1196,12929.69,97,alto,Cobrar cliente
+1282,10362.82,138,alto,Cobrar cliente
+1198,9106.64,110,alto,Cobrar cliente
+214,14635.32,164,alto,Cobrar cliente
+1298,12300.14,204,alto,Cobrar cliente
+170,7277.61,125,alto,Cobrar cliente
+167,10177.74,106,alto,Cobrar cliente
+137,13489.33,152,alto,Cobrar cliente
+90,19043.27,108,alto,Cobrar cliente
+1267,17839.39,99,alto,Cobrar cliente
+1235,14054.13,150,alto,Cobrar cliente
+134,12758.84,189,alto,Cobrar cliente
+1266,5122.65,169,alto,Cobrar cliente
+133,13723.1,162,alto,Cobrar cliente
+132,15152.78,88,alto,Cobrar cliente
+131,8187.48,138,alto,Cobrar cliente
+1237,22643.22,193,alto,Cobrar cliente
+96,7257.78,194,alto,Cobrar cliente
+98,16006.72,61,alto,Cobrar cliente
+126,7399.3,110,alto,Cobrar cliente
+138,8527.55,157,alto,Cobrar cliente
+125,13101.28,105,alto,Cobrar cliente
+1245,8580.16,227,alto,Cobrar cliente
+104,9163.14,142,alto,Cobrar cliente
+119,7173.99,95,alto,Cobrar cliente
+118,16498.25,109,alto,Cobrar cliente
+117,5212.81,205,alto,Cobrar cliente
+1255,5577.38,105,alto,Cobrar cliente
+116,14213.72,151,alto,Cobrar cliente
+1254,6746.01,124,alto,Cobrar cliente
+115,6253.99,234,alto,Cobrar cliente
+1249,8924.0,170,alto,Cobrar cliente
+113,18562.71,149,alto,Cobrar cliente
+112,9665.0,121,alto,Cobrar cliente
+111,44174.52,359,alto,Cobrar cliente
+101,12774.71,194,alto,Cobrar cliente
+169,46913.77,301,alto,Cobrar cliente
+1268,42286.82,345,alto,Cobrar cliente
+141,9120.64,119,alto,Cobrar cliente
+1275,9247.26,211,alto,Cobrar cliente
+79,14361.62,138,alto,Cobrar cliente
+80,14588.29,142,alto,Cobrar cliente
+165,15493.17,139,alto,Cobrar cliente
+1274,8774.85,107,alto,Cobrar cliente
+1222,6933.89,168,alto,Cobrar cliente
+161,7703.16,199,alto,Cobrar cliente
+1223,7169.96,156,alto,Cobrar cliente
+82,15732.56,124,alto,Cobrar cliente
+1123,7372.76,173,alto,Cobrar cliente
+157,13777.81,193,alto,Cobrar cliente
+156,12010.24,140,alto,Cobrar cliente
+1227,48018.17,354,alto,Cobrar cliente
+140,11651.43,203,alto,Cobrar cliente
+1228,5516.06,140,alto,Cobrar cliente
+85,13809.44,152,alto,Cobrar cliente
+152,5865.99,149,alto,Cobrar cliente
+1229,6752.02,99,alto,Cobrar cliente
+86,5642.9,96,alto,Cobrar cliente
+149,7571.26,250,alto,Cobrar cliente
+1231,21588.13,80,alto,Cobrar cliente
+1269,6421.26,122,alto,Cobrar cliente
+147,6483.49,96,alto,Cobrar cliente
+88,10440.97,147,alto,Cobrar cliente
+145,18940.67,101,alto,Cobrar cliente
+144,9213.07,101,alto,Cobrar cliente
+143,9745.36,166,alto,Cobrar cliente
+142,9918.73,214,alto,Cobrar cliente
+153,10981.56,203,alto,Cobrar cliente
+229,22426.72,40,alto,Cobrar cliente
+211,21289.78,35,alto,Cobrar cliente
+1179,12338.22,124,alto,Cobrar cliente
+1150,10912.56,212,alto,Cobrar cliente
+273,6447.01,96,alto,Cobrar cliente
+272,9821.86,147,alto,Cobrar cliente
+271,10214.35,164,alto,Cobrar cliente
+10,15292.99,115,alto,Cobrar cliente
+1151,5395.61,121,alto,Cobrar cliente
+302,14838.65,136,alto,Cobrar cliente
+27,5409.03,123,alto,Cobrar cliente
+1154,13952.67,114,alto,Cobrar cliente
+267,10244.76,169,alto,Cobrar cliente
+1311,6275.67,96,alto,Cobrar cliente
+266,15012.35,46,alto,Cobrar cliente
+1156,5487.97,132,alto,Cobrar cliente
+1326,9436.28,136,alto,Cobrar cliente
+264,5327.78,124,alto,Cobrar cliente
+1310,46674.57,303,alto,Cobrar cliente
+263,14188.03,106,alto,Cobrar cliente
+262,12036.63,117,alto,Cobrar cliente
+30,44135.42,322,alto,Cobrar cliente
+31,11556.17,165,alto,Cobrar cliente
+1309,6637.44,134,alto,Cobrar cliente
+260,11124.21,131,alto,Cobrar cliente
+19,8325.15,145,alto,Cobrar cliente
+275,48468.54,312,alto,Cobrar cliente
+276,5812.21,220,alto,Cobrar cliente
+1323,9102.91,135,alto,Cobrar cliente
+277,10149.14,126,alto,Cobrar cliente
+293,6606.19,155,alto,Cobrar cliente
+1141,14536.34,175,alto,Cobrar cliente
+294,12980.82,101,alto,Cobrar cliente
+289,5554.47,165,alto,Cobrar cliente
+22,5039.45,91,alto,Cobrar cliente
+287,5552.54,106,alto,Cobrar cliente
+1138,5090.56,110,alto,Cobrar cliente
+1320,8655.29,112,alto,Cobrar cliente
+1317,12864.84,274,alto,Cobrar cliente
+285,17599.45,100,alto,Cobrar cliente
+1144,11661.73,139,alto,Cobrar cliente
+1158,10429.26,121,alto,Cobrar cliente
+296,10352.32,151,alto,Cobrar cliente
+1321,9039.04,178,alto,Cobrar cliente
+297,9030.33,133,alto,Cobrar cliente
+1137,46317.68,304,alto,Cobrar cliente
+283,11290.12,116,alto,Cobrar cliente
+1145,14172.54,111,alto,Cobrar cliente
+281,41019.85,340,alto,Cobrar cliente
+1146,11457.11,267,alto,Cobrar cliente
+15,13739.77,107,alto,Cobrar cliente
+1322,10196.57,128,alto,Cobrar cliente
+1148,9263.81,99,alto,Cobrar cliente
+1149,10527.39,118,alto,Cobrar cliente
+17,20902.97,173,alto,Cobrar cliente
+303,12954.1,112,alto,Cobrar cliente
+259,5347.97,100,alto,Cobrar cliente
+20,8905.53,96,alto,Cobrar cliente
+314,11748.64,142,alto,Cobrar cliente
+306,10029.58,262,alto,Cobrar cliente
+46,8490.18,92,alto,Cobrar cliente
+41,15971.48,284,alto,Cobrar cliente
+45,13569.52,107,alto,Cobrar cliente
+42,15266.66,171,alto,Cobrar cliente
+1170,13501.72,121,alto,Cobrar cliente
+1307,15379.44,56,alto,Cobrar cliente
+40,21417.72,80,alto,Cobrar cliente
+313,9321.38,189,alto,Cobrar cliente
+307,13356.71,152,alto,Cobrar cliente
+1130,15038.31,135,alto,Cobrar cliente
+239,10879.84,183,alto,Cobrar cliente
+1171,18564.9,80,alto,Cobrar cliente
+242,10538.05,120,alto,Cobrar cliente
+2,8076.26,142,alto,Cobrar cliente
+241,14643.74,147,alto,Cobrar cliente
+1126,9924.2,180,alto,Cobrar cliente
+312,9087.77,146,alto,Cobrar cliente
+1125,16872.5,141,alto,Cobrar cliente
+249,8181.69,185,alto,Cobrar cliente
+49,10883.15,166,alto,Cobrar cliente
+231,9293.56,146,alto,Cobrar cliente
+316,6592.51,117,alto,Cobrar cliente
+7,5556.01,136,alto,Cobrar cliente
+1178,10952.4,111,alto,Cobrar cliente
+1163,13916.88,104,alto,Cobrar cliente
+36,18601.12,166,alto,Cobrar cliente
+37,13799.88,153,alto,Cobrar cliente
+50,11246.81,97,alto,Cobrar cliente
+253,12167.88,125,alto,Cobrar cliente
+39,12828.81,252,alto,Cobrar cliente
+1302,17274.55,160,alto,Cobrar cliente
+1132,12569.78,168,alto,Cobrar cliente
+1299,6195.78,177,alto,Cobrar cliente
+233,9053.61,176,alto,Cobrar cliente
+1304,11212.6,92,alto,Cobrar cliente
+251,6629.31,127,alto,Cobrar cliente
+6,10783.67,250,alto,Cobrar cliente
+5,9695.92,141,alto,Cobrar cliente
+252,6731.96,210,alto,Cobrar cliente
+903,1573.6,118,medio,Cobrar cliente
+889,8831.66,1,medio,Cobrar cliente
+1253,6714.4,62,medio,Cobrar cliente
+890,14180.18,49,medio,Cobrar cliente
+1327,12237.32,49,medio,Cobrar cliente
+901,8575.76,81,medio,Cobrar cliente
+1261,12504.05,26,medio,Cobrar cliente
+1260,12342.73,18,medio,Cobrar cliente
+1263,12035.42,67,medio,Cobrar cliente
+1264,7676.48,79,medio,Cobrar cliente
+897,6510.44,61,medio,Cobrar cliente
+895,6405.18,56,medio,Cobrar cliente
+1265,9006.8,74,medio,Cobrar cliente
+1259,8030.93,41,medio,Cobrar cliente
+1258,2280.57,164,medio,Cobrar cliente
+1256,3092.26,133,medio,Cobrar cliente
+899,13852.29,1,medio,Cobrar cliente
+796,10326.3,22,medio,Cobrar cliente
+900,6476.55,1,medio,Cobrar cliente
+1325,13754.33,58,medio,Cobrar cliente
+1324,100.0,100,medio,Cobrar cliente
+1328,100.0,158,medio,Cobrar cliente
+1329,7865.39,74,medio,Cobrar cliente
+902,6708.6,63,medio,Cobrar cliente
+893,2511.61,138,medio,Cobrar cliente
+813,10330.37,72,medio,Cobrar cliente
+808,2460.29,138,medio,Cobrar cliente
+858,10942.48,58,medio,Cobrar cliente
+857,986.63,92,medio,Cobrar cliente
+856,7238.62,38,medio,Cobrar cliente
+852,6124.06,8,medio,Cobrar cliente
+851,526.66,157,medio,Cobrar cliente
+850,6830.52,51,medio,Cobrar cliente
+1283,7052.79,33,medio,Cobrar cliente
+849,10123.85,73,medio,Cobrar cliente
+848,11445.94,1,medio,Cobrar cliente
+825,6258.99,1,medio,Cobrar cliente
+845,6368.58,1,medio,Cobrar cliente
+844,12291.88,61,medio,Cobrar cliente
+1288,100.0,108,medio,Cobrar cliente
+1303,13396.57,59,medio,Cobrar cliente
+843,764.25,118,medio,Cobrar cliente
+1291,12939.92,19,medio,Cobrar cliente
+1292,100.0,104,medio,Cobrar cliente
+828,6358.63,64,medio,Cobrar cliente
+830,8726.09,51,medio,Cobrar cliente
+831,8883.15,30,medio,Cobrar cliente
+833,9416.64,88,medio,Cobrar cliente
+834,8669.03,29,medio,Cobrar cliente
+1301,10794.87,50,medio,Cobrar cliente
+840,13071.04,78,medio,Cobrar cliente
+838,100.0,115,medio,Cobrar cliente
+1305,1377.18,124,medio,Cobrar cliente
+807,6225.86,82,medio,Cobrar cliente
+1306,11116.14,1,medio,Cobrar cliente
+821,7724.38,1,medio,Cobrar cliente
+1319,1918.2,121,medio,Cobrar cliente
+883,9771.31,88,medio,Cobrar cliente
+811,10462.39,51,medio,Cobrar cliente
+812,8068.68,79,medio,Cobrar cliente
+1315,5503.03,54,medio,Cobrar cliente
+1270,100.0,110,medio,Cobrar cliente
+882,5556.32,51,medio,Cobrar cliente
+1272,9863.42,45,medio,Cobrar cliente
+880,11549.46,68,medio,Cobrar cliente
+879,9132.15,44,medio,Cobrar cliente
+878,6626.15,48,medio,Cobrar cliente
+877,6722.48,66,medio,Cobrar cliente
+876,5212.86,11,medio,Cobrar cliente
+836,6652.26,33,medio,Cobrar cliente
+874,6431.65,49,medio,Cobrar cliente
+815,10082.99,57,medio,Cobrar cliente
+1314,8985.66,73,medio,Cobrar cliente
+1312,9685.26,41,medio,Cobrar cliente
+817,11798.31,26,medio,Cobrar cliente
+869,5272.86,1,medio,Cobrar cliente
+868,8808.1,81,medio,Cobrar cliente
+819,13934.46,71,medio,Cobrar cliente
+864,12777.9,77,medio,Cobrar cliente
+1278,7291.4,61,medio,Cobrar cliente
+862,5805.57,34,medio,Cobrar cliente
+1279,11311.77,37,medio,Cobrar cliente
+906,838.85,228,medio,Cobrar cliente
+954,7131.49,5,medio,Cobrar cliente
+1251,9966.91,35,medio,Cobrar cliente
+1042,100.0,104,medio,Cobrar cliente
+1173,9386.23,74,medio,Cobrar cliente
+1172,3367.67,156,medio,Cobrar cliente
+1044,9697.33,47,medio,Cobrar cliente
+1045,6139.39,57,medio,Cobrar cliente
+1169,11157.55,69,medio,Cobrar cliente
+1168,3774.87,168,medio,Cobrar cliente
+1174,10822.76,37,medio,Cobrar cliente
+1167,9867.44,52,medio,Cobrar cliente
+1165,13313.77,53,medio,Cobrar cliente
+1050,4014.93,164,medio,Cobrar cliente
+1052,9002.53,40,medio,Cobrar cliente
+1164,12695.18,86,medio,Cobrar cliente
+1161,9441.57,78,medio,Cobrar cliente
+1159,3719.95,119,medio,Cobrar cliente
+1054,100.0,111,medio,Cobrar cliente
+1166,11296.99,20,medio,Cobrar cliente
+1055,8772.52,11,medio,Cobrar cliente
+1175,9001.07,6,medio,Cobrar cliente
+1177,9678.3,68,medio,Cobrar cliente
+1012,11487.28,1,medio,Cobrar cliente
+1013,1039.33,102,medio,Cobrar cliente
+1014,7892.4,64,medio,Cobrar cliente
+1015,5544.84,72,medio,Cobrar cliente
+1190,9067.91,86,medio,Cobrar cliente
+1016,9971.47,78,medio,Cobrar cliente
+1185,4281.76,139,medio,Cobrar cliente
+1176,3981.16,94,medio,Cobrar cliente
+1022,9824.05,3,medio,Cobrar cliente
+1180,4075.92,141,medio,Cobrar cliente
+1026,9618.68,24,medio,Cobrar cliente
+1028,8899.91,88,medio,Cobrar cliente
+1031,7038.24,76,medio,Cobrar cliente
+1032,14270.31,85,medio,Cobrar cliente
+1035,9795.67,28,medio,Cobrar cliente
+1038,1706.48,143,medio,Cobrar cliente
+1184,8245.24,28,medio,Cobrar cliente
+1157,6672.81,63,medio,Cobrar cliente
+1058,5094.56,1,medio,Cobrar cliente
+1060,6249.67,42,medio,Cobrar cliente
+1102,7554.56,64,medio,Cobrar cliente
+1136,10358.71,57,medio,Cobrar cliente
+1104,14164.59,88,medio,Cobrar cliente
+1105,11465.48,46,medio,Cobrar cliente
+1134,7455.19,14,medio,Cobrar cliente
+1133,4567.78,170,medio,Cobrar cliente
+1107,259.16,116,medio,Cobrar cliente
+1101,5987.38,14,medio,Cobrar cliente
+1109,4174.15,159,medio,Cobrar cliente
+1112,510.89,99,medio,Cobrar cliente
+1113,11095.04,75,medio,Cobrar cliente
+1114,8978.18,15,medio,Cobrar cliente
+1131,12567.78,41,medio,Cobrar cliente
+1117,13015.18,85,medio,Cobrar cliente
+1129,6351.3,90,medio,Cobrar cliente
+1128,3106.48,155,medio,Cobrar cliente
+1111,13654.12,13,medio,Cobrar cliente
+1099,14591.32,68,medio,Cobrar cliente
+1139,5598.2,71,medio,Cobrar cliente
+1095,8337.6,50,medio,Cobrar cliente
+1061,6780.42,9,medio,Cobrar cliente
+1062,100.0,101,medio,Cobrar cliente
+1067,14402.12,1,medio,Cobrar cliente
+1070,8650.5,38,medio,Cobrar cliente
+1152,4753.71,114,medio,Cobrar cliente
+1072,1428.81,190,medio,Cobrar cliente
+1073,9720.24,21,medio,Cobrar cliente
+1075,3311.11,212,medio,Cobrar cliente
+1078,100.0,128,medio,Cobrar cliente
+1084,6146.28,1,medio,Cobrar cliente
+1088,4184.52,132,medio,Cobrar cliente
+1143,9280.62,86,medio,Cobrar cliente
+1090,12436.64,1,medio,Cobrar cliente
+1142,785.64,199,medio,Cobrar cliente
+1092,11875.9,13,medio,Cobrar cliente
+1140,7132.71,47,medio,Cobrar cliente
+1094,10161.28,5,medio,Cobrar cliente
+1010,8919.98,30,medio,Cobrar cliente
+1009,8419.65,55,medio,Cobrar cliente
+1007,7583.64,38,medio,Cobrar cliente
+1192,11305.19,89,medio,Cobrar cliente
+930,10277.59,89,medio,Cobrar cliente
+933,3799.9,165,medio,Cobrar cliente
+937,6345.93,46,medio,Cobrar cliente
+940,4004.83,92,medio,Cobrar cliente
+1234,1341.74,121,medio,Cobrar cliente
+942,9405.46,69,medio,Cobrar cliente
+943,9116.95,40,medio,Cobrar cliente
+1240,13436.66,8,medio,Cobrar cliente
+1233,11011.97,3,medio,Cobrar cliente
+1232,100.0,115,medio,Cobrar cliente
+948,10633.42,79,medio,Cobrar cliente
+1230,11733.46,1,medio,Cobrar cliente
+950,100.0,224,medio,Cobrar cliente
+952,11576.01,40,medio,Cobrar cliente
+955,12273.52,87,medio,Cobrar cliente
+1226,12523.17,8,medio,Cobrar cliente
+947,10636.12,67,medio,Cobrar cliente
+1241,1329.08,94,medio,Cobrar cliente
+929,8421.67,81,medio,Cobrar cliente
+927,12666.15,90,medio,Cobrar cliente
+1250,10877.25,27,medio,Cobrar cliente
+911,12698.12,36,medio,Cobrar cliente
+912,8302.73,50,medio,Cobrar cliente
+913,9002.43,42,medio,Cobrar cliente
+914,9106.27,7,medio,Cobrar cliente
+915,9524.7,60,medio,Cobrar cliente
+916,7783.52,63,medio,Cobrar cliente
+1248,100.0,159,medio,Cobrar cliente
+1247,6673.04,89,medio,Cobrar cliente
+917,818.62,116,medio,Cobrar cliente
+1246,4780.61,118,medio,Cobrar cliente
+918,14383.8,81,medio,Cobrar cliente
+921,7817.11,50,medio,Cobrar cliente
+1244,12204.11,1,medio,Cobrar cliente
+922,6625.51,86,medio,Cobrar cliente
+1242,3533.04,100,medio,Cobrar cliente
+926,4636.25,108,medio,Cobrar cliente
+1224,8287.91,69,medio,Cobrar cliente
+907,10538.99,37,medio,Cobrar cliente
+957,8075.2,36,medio,Cobrar cliente
+959,11047.93,59,medio,Cobrar cliente
+1203,12471.61,44,medio,Cobrar cliente
+1201,2845.21,146,medio,Cobrar cliente
+991,3271.61,133,medio,Cobrar cliente
+992,9869.52,17,medio,Cobrar cliente
+995,100.0,153,medio,Cobrar cliente
+1199,7973.79,57,medio,Cobrar cliente
+998,5871.58,62,medio,Cobrar cliente
+1204,6849.13,20,medio,Cobrar cliente
+1197,10336.03,1,medio,Cobrar cliente
+1195,133.87,186,medio,Cobrar cliente
+1002,9464.32,70,medio,Cobrar cliente
+1003,10016.01,69,medio,Cobrar cliente
+1004,9693.09,54,medio,Cobrar cliente
+1005,7223.58,86,medio,Cobrar cliente
+1193,14621.63,34,medio,Cobrar cliente
+1006,7627.07,7,medio,Cobrar cliente
+1000,9804.16,88,medio,Cobrar cliente
+987,5487.89,70,medio,Cobrar cliente
+985,6993.59,1,medio,Cobrar cliente
+1205,14139.8,47,medio,Cobrar cliente
+1221,4328.34,152,medio,Cobrar cliente
+962,13766.29,52,medio,Cobrar cliente
+1220,6408.25,19,medio,Cobrar cliente
+964,10166.21,1,medio,Cobrar cliente
+1219,13094.65,65,medio,Cobrar cliente
+965,4865.12,110,medio,Cobrar cliente
+966,7526.82,63,medio,Cobrar cliente
+1217,5329.28,85,medio,Cobrar cliente
+1215,3385.02,143,medio,Cobrar cliente
+1213,6571.08,86,medio,Cobrar cliente
+1212,100.0,92,medio,Cobrar cliente
+971,5928.39,38,medio,Cobrar cliente
+973,11867.37,45,medio,Cobrar cliente
+975,12217.12,75,medio,Cobrar cliente
+976,10873.82,85,medio,Cobrar cliente
+978,3582.45,246,medio,Cobrar cliente
+1206,9618.09,36,medio,Cobrar cliente
+958,14126.75,61,medio,Cobrar cliente
+1064,2645.6,111,medio,Cobrar cliente
+666,100.0,118,medio,Cobrar cliente
+788,100.0,181,medio,Cobrar cliente
+396,3674.64,124,medio,Cobrar cliente
+790,6963.83,30,medio,Cobrar cliente
+401,7326.7,29,medio,Cobrar cliente
+122,4225.33,112,medio,Cobrar cliente
+402,4853.06,207,medio,Cobrar cliente
+405,3514.53,144,medio,Cobrar cliente
+406,9319.15,67,medio,Cobrar cliente
+407,6996.81,75,medio,Cobrar cliente
+408,873.53,103,medio,Cobrar cliente
+395,4953.77,157,medio,Cobrar cliente
+411,7654.61,16,medio,Cobrar cliente
+121,1512.56,145,medio,Cobrar cliente
+416,6945.86,63,medio,Cobrar cliente
+417,7088.44,78,medio,Cobrar cliente
+419,100.0,130,medio,Cobrar cliente
+421,8334.0,62,medio,Cobrar cliente
+424,6301.63,58,medio,Cobrar cliente
+425,1354.13,115,medio,Cobrar cliente
+120,7997.84,71,medio,Cobrar cliente
+114,8582.67,40,medio,Cobrar cliente
+413,10114.11,1,medio,Cobrar cliente
+124,6255.47,32,medio,Cobrar cliente
+393,3371.67,133,medio,Cobrar cliente
+392,10758.02,74,medio,Cobrar cliente
+361,7071.02,57,medio,Cobrar cliente
+362,463.31,99,medio,Cobrar cliente
+139,6731.45,1,medio,Cobrar cliente
+366,10360.73,76,medio,Cobrar cliente
+367,9428.44,68,medio,Cobrar cliente
+136,9516.18,88,medio,Cobrar cliente
+135,8211.08,23,medio,Cobrar cliente
+369,5187.22,51,medio,Cobrar cliente
+371,100.0,142,medio,Cobrar cliente
+374,12021.72,1,medio,Cobrar cliente
+130,12061.19,58,medio,Cobrar cliente
+379,6449.06,43,medio,Cobrar cliente
+380,275.98,114,medio,Cobrar cliente
+381,10342.27,31,medio,Cobrar cliente
+129,5807.66,64,medio,Cobrar cliente
+384,4343.54,212,medio,Cobrar cliente
+386,7619.14,57,medio,Cobrar cliente
+387,6724.97,47,medio,Cobrar cliente
+388,2383.79,160,medio,Cobrar cliente
+128,5913.96,27,medio,Cobrar cliente
+127,9183.68,52,medio,Cobrar cliente
+433,11517.19,69,medio,Cobrar cliente
+146,7953.22,18,medio,Cobrar cliente
+434,12018.96,36,medio,Cobrar cliente
+110,11050.04,1,medio,Cobrar cliente
+473,2711.82,97,medio,Cobrar cliente
+474,2886.93,108,medio,Cobrar cliente
+99,12661.85,33,medio,Cobrar cliente
+475,10609.9,79,medio,Cobrar cliente
+477,7833.18,65,medio,Cobrar cliente
+479,12639.43,43,medio,Cobrar cliente
+480,5557.09,46,medio,Cobrar cliente
+481,4856.23,171,medio,Cobrar cliente
+482,3298.35,123,medio,Cobrar cliente
+472,100.0,141,medio,Cobrar cliente
+486,6241.33,8,medio,Cobrar cliente
+488,10605.11,1,medio,Cobrar cliente
+95,163.96,107,medio,Cobrar cliente
+203,7498.34,74,medio,Cobrar cliente
+493,14646.07,30,medio,Cobrar cliente
+494,9161.81,72,medio,Cobrar cliente
+495,698.92,105,medio,Cobrar cliente
+497,8145.37,75,medio,Cobrar cliente
+498,7991.37,1,medio,Cobrar cliente
+500,13799.54,71,medio,Cobrar cliente
+487,8764.55,53,medio,Cobrar cliente
+471,9887.12,86,medio,Cobrar cliente
+469,4935.67,225,medio,Cobrar cliente
+467,8603.03,85,medio,Cobrar cliente
+438,7981.56,81,medio,Cobrar cliente
+109,2697.06,99,medio,Cobrar cliente
+440,10561.19,67,medio,Cobrar cliente
+107,12136.46,1,medio,Cobrar cliente
+106,4022.47,106,medio,Cobrar cliente
+105,6213.1,40,medio,Cobrar cliente
+442,12425.58,74,medio,Cobrar cliente
+443,11525.91,41,medio,Cobrar cliente
+445,5989.77,1,medio,Cobrar cliente
+446,9605.03,45,medio,Cobrar cliente
+447,3359.52,111,medio,Cobrar cliente
+448,4457.96,138,medio,Cobrar cliente
+451,11865.59,82,medio,Cobrar cliente
+454,13149.98,64,medio,Cobrar cliente
+455,12586.02,1,medio,Cobrar cliente
+456,100.0,116,medio,Cobrar cliente
+103,10003.1,1,medio,Cobrar cliente
+459,3904.75,91,medio,Cobrar cliente
+460,6657.46,59,medio,Cobrar cliente
+462,6314.46,89,medio,Cobrar cliente
+100,10625.1,1,medio,Cobrar cliente
+435,5551.21,1,medio,Cobrar cliente
+94,3423.97,144,medio,Cobrar cliente
+358,10778.16,75,medio,Cobrar cliente
+356,10355.14,83,medio,Cobrar cliente
+180,7348.88,83,medio,Cobrar cliente
+178,8495.01,24,medio,Cobrar cliente
+177,100.0,100,medio,Cobrar cliente
+246,12066.46,36,medio,Cobrar cliente
+176,9674.39,68,medio,Cobrar cliente
+248,100.0,177,medio,Cobrar cliente
+250,100.0,110,medio,Cobrar cliente
+254,10093.67,1,medio,Cobrar cliente
+255,10613.29,85,medio,Cobrar cliente
+184,10378.8,72,medio,Cobrar cliente
+256,2988.12,95,medio,Cobrar cliente
+257,14216.61,1,medio,Cobrar cliente
+173,14547.37,84,medio,Cobrar cliente
+261,8246.65,67,medio,Cobrar cliente
+265,13159.8,23,medio,Cobrar cliente
+168,6096.02,83,medio,Cobrar cliente
+166,11780.05,21,medio,Cobrar cliente
+269,4034.16,213,medio,Cobrar cliente
+270,7443.14,64,medio,Cobrar cliente
+274,7242.41,62,medio,Cobrar cliente
+175,7335.97,75,medio,Cobrar cliente
+237,7722.11,54,medio,Cobrar cliente
+236,5230.28,75,medio,Cobrar cliente
+186,5007.92,75,medio,Cobrar cliente
+201,11131.61,70,medio,Cobrar cliente
+205,7739.37,55,medio,Cobrar cliente
+206,12225.62,8,medio,Cobrar cliente
+207,6436.88,1,medio,Cobrar cliente
+209,2961.04,117,medio,Cobrar cliente
+210,8579.4,1,medio,Cobrar cliente
+213,6496.58,32,medio,Cobrar cliente
+197,2197.49,124,medio,Cobrar cliente
+216,519.57,301,medio,Cobrar cliente
+196,6196.41,69,medio,Cobrar cliente
+218,12684.53,15,medio,Cobrar cliente
+220,11173.77,1,medio,Cobrar cliente
+194,13705.79,55,medio,Cobrar cliente
+222,13383.27,46,medio,Cobrar cliente
+225,2848.21,104,medio,Cobrar cliente
+226,11253.23,63,medio,Cobrar cliente
+227,1846.41,115,medio,Cobrar cliente
+193,1628.63,91,medio,Cobrar cliente
+190,8182.41,79,medio,Cobrar cliente
+232,3417.98,149,medio,Cobrar cliente
+189,7224.42,20,medio,Cobrar cliente
+278,9534.27,72,medio,Cobrar cliente
+357,13688.58,57,medio,Cobrar cliente
+279,100.0,166,medio,Cobrar cliente
+282,8321.5,47,medio,Cobrar cliente
+330,3298.1,92,medio,Cobrar cliente
+154,5006.71,10,medio,Cobrar cliente
+331,13507.85,69,medio,Cobrar cliente
+333,11726.83,86,medio,Cobrar cliente
+151,8118.83,86,medio,Cobrar cliente
+336,8575.44,1,medio,Cobrar cliente
+150,14292.6,82,medio,Cobrar cliente
+339,11014.17,44,medio,Cobrar cliente
+340,7904.09,1,medio,Cobrar cliente
+328,12517.46,1,medio,Cobrar cliente
+341,5256.19,32,medio,Cobrar cliente
+344,8404.61,1,medio,Cobrar cliente
+345,7380.64,39,medio,Cobrar cliente
+348,9842.89,1,medio,Cobrar cliente
+349,9702.9,62,medio,Cobrar cliente
+350,6005.07,1,medio,Cobrar cliente
+351,10772.71,47,medio,Cobrar cliente
+352,11652.27,86,medio,Cobrar cliente
+353,7488.39,58,medio,Cobrar cliente
+354,2150.81,102,medio,Cobrar cliente
+343,9603.64,1,medio,Cobrar cliente
+325,7997.0,52,medio,Cobrar cliente
+323,10412.99,1,medio,Cobrar cliente
+321,10778.02,27,medio,Cobrar cliente
+284,7465.05,1,medio,Cobrar cliente
+286,10434.72,16,medio,Cobrar cliente
+290,100.0,130,medio,Cobrar cliente
+162,10556.31,26,medio,Cobrar cliente
+160,7316.75,1,medio,Cobrar cliente
+159,4004.76,130,medio,Cobrar cliente
+298,4284.67,172,medio,Cobrar cliente
+299,6566.14,43,medio,Cobrar cliente
+300,9397.2,31,medio,Cobrar cliente
+301,5345.4,70,medio,Cobrar cliente
+304,7639.36,52,medio,Cobrar cliente
+305,3353.61,106,medio,Cobrar cliente
+308,7979.27,73,medio,Cobrar cliente
+309,5515.21,32,medio,Cobrar cliente
+310,8982.48,17,medio,Cobrar cliente
+158,2661.05,95,medio,Cobrar cliente
+311,1440.93,118,medio,Cobrar cliente
+315,12717.65,90,medio,Cobrar cliente
+317,5178.47,75,medio,Cobrar cliente
+318,5702.7,64,medio,Cobrar cliente
+155,3179.43,93,medio,Cobrar cliente
+280,12405.89,48,medio,Cobrar cliente
+504,9874.89,54,medio,Cobrar cliente
+492,5507.23,28,medio,Cobrar cliente
+506,6765.33,60,medio,Cobrar cliente
+683,9606.9,62,medio,Cobrar cliente
+38,7682.64,87,medio,Cobrar cliente
+35,9493.97,13,medio,Cobrar cliente
+684,10910.44,77,medio,Cobrar cliente
+688,12424.94,64,medio,Cobrar cliente
+689,100.0,123,medio,Cobrar cliente
+33,2675.47,165,medio,Cobrar cliente
+691,12165.25,57,medio,Cobrar cliente
+692,1065.68,131,medio,Cobrar cliente
+695,8469.88,65,medio,Cobrar cliente
+696,8539.23,80,medio,Cobrar cliente
+32,4937.12,150,medio,Cobrar cliente
+29,100.0,120,medio,Cobrar cliente
+28,6516.01,22,medio,Cobrar cliente
+698,10178.65,48,medio,Cobrar cliente
+699,7627.72,60,medio,Cobrar cliente
+702,9418.28,62,medio,Cobrar cliente
+703,9489.21,58,medio,Cobrar cliente
+704,12612.24,1,medio,Cobrar cliente
+682,11120.62,23,medio,Cobrar cliente
+43,8915.99,46,medio,Cobrar cliente
+681,4883.6,98,medio,Cobrar cliente
+680,8713.09,60,medio,Cobrar cliente
+53,5203.25,63,medio,Cobrar cliente
+651,7221.75,53,medio,Cobrar cliente
+653,100.0,104,medio,Cobrar cliente
+654,4970.02,117,medio,Cobrar cliente
+655,5975.49,25,medio,Cobrar cliente
+656,4678.88,91,medio,Cobrar cliente
+93,100.0,146,medio,Cobrar cliente
+52,4245.85,187,medio,Cobrar cliente
+660,5102.2,1,medio,Cobrar cliente
+705,7118.82,1,medio,Cobrar cliente
+661,6383.14,86,medio,Cobrar cliente
+665,14089.99,71,medio,Cobrar cliente
+47,11020.85,66,medio,Cobrar cliente
+668,10381.43,47,medio,Cobrar cliente
+670,8983.45,85,medio,Cobrar cliente
+671,8950.01,1,medio,Cobrar cliente
+674,10744.72,57,medio,Cobrar cliente
+675,12802.74,58,medio,Cobrar cliente
+677,6172.36,68,medio,Cobrar cliente
+44,7419.69,1,medio,Cobrar cliente
+662,6971.94,30,medio,Cobrar cliente
+709,4676.99,94,medio,Cobrar cliente
+712,6137.27,60,medio,Cobrar cliente
+716,3734.57,92,medio,Cobrar cliente
+14,14835.87,28,medio,Cobrar cliente
+763,10651.67,27,medio,Cobrar cliente
+764,7292.62,85,medio,Cobrar cliente
+765,11334.7,85,medio,Cobrar cliente
+766,10632.82,80,medio,Cobrar cliente
+767,5491.67,1,medio,Cobrar cliente
+768,9262.07,52,medio,Cobrar cliente
+12,10736.88,44,medio,Cobrar cliente
+771,10166.28,1,medio,Cobrar cliente
+759,2886.74,109,medio,Cobrar cliente
+11,7600.05,51,medio,Cobrar cliente
+775,5840.65,83,medio,Cobrar cliente
+8,11176.26,29,medio,Cobrar cliente
+4,9230.27,70,medio,Cobrar cliente
+777,12921.56,89,medio,Cobrar cliente
+778,5629.92,84,medio,Cobrar cliente
+3,8436.8,84,medio,Cobrar cliente
+780,100.0,164,medio,Cobrar cliente
+781,5032.41,89,medio,Cobrar cliente
+784,6900.85,61,medio,Cobrar cliente
+9,13766.55,77,medio,Cobrar cliente
+643,14263.18,22,medio,Cobrar cliente
+758,12326.47,72,medio,Cobrar cliente
+755,6982.54,1,medio,Cobrar cliente
+718,8851.02,10,medio,Cobrar cliente
+719,9770.48,19,medio,Cobrar cliente
+24,100.0,96,medio,Cobrar cliente
+721,6094.2,90,medio,Cobrar cliente
+722,12208.59,3,medio,Cobrar cliente
+724,10366.15,1,medio,Cobrar cliente
+727,1633.16,110,medio,Cobrar cliente
+731,279.56,133,medio,Cobrar cliente
+732,5322.18,88,medio,Cobrar cliente
+18,100.0,96,medio,Cobrar cliente
+733,6299.7,1,medio,Cobrar cliente
+735,100.0,172,medio,Cobrar cliente
+736,7364.09,61,medio,Cobrar cliente
+739,3804.04,198,medio,Cobrar cliente
+742,9154.22,78,medio,Cobrar cliente
+743,10135.9,85,medio,Cobrar cliente
+747,8727.26,82,medio,Cobrar cliente
+750,5543.14,81,medio,Cobrar cliente
+21,3597.01,199,medio,Cobrar cliente
+752,100.0,203,medio,Cobrar cliente
+734,100.0,99,medio,Cobrar cliente
+638,13452.82,80,medio,Cobrar cliente
+658,1411.54,109,medio,Cobrar cliente
+633,7337.02,1,medio,Cobrar cliente
+84,100.0,119,medio,Cobrar cliente
+550,7047.1,75,medio,Cobrar cliente
+551,7882.65,73,medio,Cobrar cliente
+553,11400.21,64,medio,Cobrar cliente
+554,7296.23,66,medio,Cobrar cliente
+556,6340.61,1,medio,Cobrar cliente
+83,13864.49,71,medio,Cobrar cliente
+561,9431.0,42,medio,Cobrar cliente
+563,14813.71,47,medio,Cobrar cliente
+547,10825.53,79,medio,Cobrar cliente
+566,4588.39,115,medio,Cobrar cliente
+576,10950.0,67,medio,Cobrar cliente
+579,1581.7,162,medio,Cobrar cliente
+78,13836.1,87,medio,Cobrar cliente
+636,6834.75,62,medio,Cobrar cliente
+584,9121.83,43,medio,Cobrar cliente
+585,100.0,141,medio,Cobrar cliente
+77,7746.52,56,medio,Cobrar cliente
+74,3943.01,220,medio,Cobrar cliente
+586,4938.33,166,medio,Cobrar cliente
+567,14008.06,24,medio,Cobrar cliente
+588,14950.8,1,medio,Cobrar cliente
+546,7046.9,53,medio,Cobrar cliente
+541,10900.85,57,medio,Cobrar cliente
+508,6096.57,51,medio,Cobrar cliente
+92,7434.05,14,medio,Cobrar cliente
+509,9157.23,1,medio,Cobrar cliente
+511,100.0,109,medio,Cobrar cliente
+512,7910.16,69,medio,Cobrar cliente
+91,2172.23,118,medio,Cobrar cliente
+513,8917.81,87,medio,Cobrar cliente
+514,14371.76,62,medio,Cobrar cliente
+516,2001.86,137,medio,Cobrar cliente
+543,10365.7,86,medio,Cobrar cliente
+517,13181.75,16,medio,Cobrar cliente
+87,8700.78,9,medio,Cobrar cliente
+523,14810.61,16,medio,Cobrar cliente
+525,7975.53,23,medio,Cobrar cliente
+527,13770.38,74,medio,Cobrar cliente
+531,14370.22,28,medio,Cobrar cliente
+533,12274.77,48,medio,Cobrar cliente
+537,9039.4,1,medio,Cobrar cliente
+538,9723.52,1,medio,Cobrar cliente
+540,10045.18,68,medio,Cobrar cliente
+519,4979.33,167,medio,Cobrar cliente
+590,13757.92,86,medio,Cobrar cliente
+581,11313.25,42,medio,Cobrar cliente
+591,8266.74,6,medio,Cobrar cliente
+604,100.0,184,medio,Cobrar cliente
+60,3239.78,139,medio,Cobrar cliente
+605,9994.55,30,medio,Cobrar cliente
+59,100.0,146,medio,Cobrar cliente
+613,5115.67,3,medio,Cobrar cliente
+615,8139.41,71,medio,Cobrar cliente
+616,5773.21,39,medio,Cobrar cliente
+62,7837.63,34,medio,Cobrar cliente
+617,100.0,104,medio,Cobrar cliente
+622,4707.56,151,medio,Cobrar cliente
+624,4092.93,120,medio,Cobrar cliente
+627,12484.34,43,medio,Cobrar cliente
+628,6541.08,62,medio,Cobrar cliente
+56,100.0,127,medio,Cobrar cliente
+55,14860.54,67,medio,Cobrar cliente
+632,14995.93,57,medio,Cobrar cliente
+620,1888.98,160,medio,Cobrar cliente
+599,11570.68,1,medio,Cobrar cliente
+202,7330.99,76,medio,Cobrar cliente
+595,8282.36,76,medio,Cobrar cliente
+68,10011.52,74,medio,Cobrar cliente
+64,4048.69,146,medio,Cobrar cliente
+597,7380.83,78,medio,Cobrar cliente
+598,6265.79,90,medio,Cobrar cliente
+66,100.0,153,medio,Cobrar cliente
+1252,4275.21,29,baixo,Nao cobrar cliente
+48,4417.76,89,baixo,Nao cobrar cliente
+58,3961.9,1,baixo,Nao cobrar cliente
+51,2995.44,85,baixo,Nao cobrar cliente
+1281,2249.9,1,baixo,Nao cobrar cliente
+1290,3318.57,19,baixo,Nao cobrar cliente
+1225,1274.03,1,baixo,Nao cobrar cliente
+13,2714.56,90,baixo,Nao cobrar cliente
+1273,2980.32,10,baixo,Nao cobrar cliente
+1262,999.63,76,baixo,Nao cobrar cliente
+89,3457.78,82,baixo,Nao cobrar cliente
+26,1639.9,53,baixo,Nao cobrar cliente
+1308,4272.2,1,baixo,Nao cobrar cliente
+1239,3411.78,54,baixo,Nao cobrar cliente
+1296,4830.17,1,baixo,Nao cobrar cliente
+1238,1991.94,5,baixo,Nao cobrar cliente
+1236,100.0,87,baixo,Nao cobrar cliente
+54,100.0,4,baixo,Nao cobrar cliente
+57,100.0,48,baixo,Nao cobrar cliente
+97,100.0,15,baixo,Nao cobrar cliente
+1300,2379.06,83,baixo,Nao cobrar cliente
+1208,4223.71,63,baixo,Nao cobrar cliente
+1284,2427.3,87,baixo,Nao cobrar cliente
+63,1394.32,76,baixo,Nao cobrar cliente
+1316,3988.8,1,baixo,Nao cobrar cliente
+1218,3953.77,37,baixo,Nao cobrar cliente
+23,3276.05,57,baixo,Nao cobrar cliente
+164,4934.24,1,baixo,Nao cobrar cliente
+25,100.0,74,baixo,Nao cobrar cliente
+81,3246.33,1,baixo,Nao cobrar cliente
+1257,4397.47,26,baixo,Nao cobrar cliente
+16,100.0,28,baixo,Nao cobrar cliente
+34,2270.33,69,baixo,Nao cobrar cliente
+1318,1217.61,1,baixo,Nao cobrar cliente
+70,3676.76,34,baixo,Nao cobrar cliente
+1271,100.0,59,baixo,Nao cobrar cliente
+102,2790.22,60,baixo,Nao cobrar cliente
+163,1282.18,1,baixo,Nao cobrar cliente
+123,888.86,76,baixo,Nao cobrar cliente
+65,2821.26,58,baixo,Nao cobrar cliente
+1313,1889.51,1,baixo,Nao cobrar cliente
+1243,100.0,13,baixo,Nao cobrar cliente
+1214,4533.33,7,baixo,Nao cobrar cliente
+148,3873.88,41,baixo,Nao cobrar cliente
+400,100.0,46,baixo,Nao cobrar cliente
+215,4741.3,19,baixo,Nao cobrar cliente
+650,100.0,1,baixo,Nao cobrar cliente
+646,2028.01,23,baixo,Nao cobrar cliente
+641,2280.42,25,baixo,Nao cobrar cliente
+631,4407.69,66,baixo,Nao cobrar cliente
+904,4906.41,5,baixo,Nao cobrar cliente
+905,4542.42,82,baixo,Nao cobrar cliente
+625,3600.98,67,baixo,Nao cobrar cliente
+910,1407.07,29,baixo,Nao cobrar cliente
+607,2372.74,1,baixo,Nao cobrar cliente
+919,100.0,64,baixo,Nao cobrar cliente
+603,2267.44,72,baixo,Nao cobrar cliente
+600,3920.03,37,baixo,Nao cobrar cliente
+923,2793.33,34,baixo,Nao cobrar cliente
+596,3194.66,1,baixo,Nao cobrar cliente
+928,100.0,72,baixo,Nao cobrar cliente
+592,100.0,71,baixo,Nao cobrar cliente
+931,100.0,24,baixo,Nao cobrar cliente
+932,1916.09,60,baixo,Nao cobrar cliente
+934,763.79,87,baixo,Nao cobrar cliente
+938,1615.3,72,baixo,Nao cobrar cliente
+939,4876.51,80,baixo,Nao cobrar cliente
+580,3877.67,12,baixo,Nao cobrar cliente
+573,4826.56,24,baixo,Nao cobrar cliente
+572,4188.04,71,baixo,Nao cobrar cliente
+560,100.0,75,baixo,Nao cobrar cliente
+549,1313.49,76,baixo,Nao cobrar cliente
+548,2255.24,90,baixo,Nao cobrar cliente
+522,2772.99,72,baixo,Nao cobrar cliente
+515,3707.51,1,baixo,Nao cobrar cliente
+659,2228.07,58,baixo,Nao cobrar cliente
+979,3040.41,47,baixo,Nao cobrar cliente
+886,2581.33,73,baixo,Nao cobrar cliente
+1330,2061.34,29,baixo,Nao cobrar cliente
+795,100.0,72,baixo,Nao cobrar cliente
+798,4432.13,1,baixo,Nao cobrar cliente
+776,4866.5,55,baixo,Nao cobrar cliente
+774,4276.0,24,baixo,Nao cobrar cliente
+773,3687.8,30,baixo,Nao cobrar cliente
+804,3826.15,40,baixo,Nao cobrar cliente
+770,100.0,45,baixo,Nao cobrar cliente
+762,198.8,64,baixo,Nao cobrar cliente
+814,2634.32,45,baixo,Nao cobrar cliente
+816,1556.5,40,baixo,Nao cobrar cliente
+751,3639.16,17,baixo,Nao cobrar cliente
+737,3307.09,44,baixo,Nao cobrar cliente
+730,4109.22,56,baixo,Nao cobrar cliente
+729,2950.62,7,baixo,Nao cobrar cliente
+720,100.0,61,baixo,Nao cobrar cliente
+839,514.38,88,baixo,Nao cobrar cliente
+708,4866.7,80,baixo,Nao cobrar cliente
+700,4492.51,78,baixo,Nao cobrar cliente
+697,4725.48,26,baixo,Nao cobrar cliente
+854,4082.81,31,baixo,Nao cobrar cliente
+855,4010.88,6,baixo,Nao cobrar cliente
+694,100.0,14,baixo,Nao cobrar cliente
+861,2541.8,33,baixo,Nao cobrar cliente
+686,1947.49,1,baixo,Nao cobrar cliente
+866,100.0,42,baixo,Nao cobrar cliente
+867,4480.73,1,baixo,Nao cobrar cliente
+870,4584.76,74,baixo,Nao cobrar cliente
+678,1313.81,64,baixo,Nao cobrar cliente
+667,2359.78,1,baixo,Nao cobrar cliente
+884,100.0,81,baixo,Nao cobrar cliente
+204,100.0,54,baixo,Nao cobrar cliente
+983,100.0,31,baixo,Nao cobrar cliente
+503,1392.14,69,baixo,Nao cobrar cliente
+338,100.0,45,baixo,Nao cobrar cliente
+335,3171.87,24,baixo,Nao cobrar cliente
+1116,3006.72,9,baixo,Nao cobrar cliente
+320,3453.36,39,baixo,Nao cobrar cliente
+1127,2564.27,83,baixo,Nao cobrar cliente
+1135,1605.69,46,baixo,Nao cobrar cliente
+295,3048.32,29,baixo,Nao cobrar cliente
+292,3299.88,9,baixo,Nao cobrar cliente
+291,4777.52,5,baixo,Nao cobrar cliente
+288,4508.95,68,baixo,Nao cobrar cliente
+1147,2951.3,4,baixo,Nao cobrar cliente
+1153,2083.0,12,baixo,Nao cobrar cliente
+268,3781.76,76,baixo,Nao cobrar cliente
+1155,4093.24,18,baixo,Nao cobrar cliente
+258,2928.76,41,baixo,Nao cobrar cliente
+1160,4820.44,64,baixo,Nao cobrar cliente
+1162,2723.11,79,baixo,Nao cobrar cliente
+247,100.0,37,baixo,Nao cobrar cliente
+245,100.0,45,baixo,Nao cobrar cliente
+244,4825.82,59,baixo,Nao cobrar cliente
+243,100.0,1,baixo,Nao cobrar cliente
+240,100.0,73,baixo,Nao cobrar cliente
+238,2680.11,1,baixo,Nao cobrar cliente
+235,100.0,62,baixo,Nao cobrar cliente
+234,4433.08,58,baixo,Nao cobrar cliente
+230,4119.73,1,baixo,Nao cobrar cliente
+228,3459.2,33,baixo,Nao cobrar cliente
+221,3531.54,88,baixo,Nao cobrar cliente
+217,1107.04,27,baixo,Nao cobrar cliente
+1108,4998.11,57,baixo,Nao cobrar cliente
+986,4032.96,71,baixo,Nao cobrar cliente
+360,3912.36,88,baixo,Nao cobrar cliente
+1087,100.0,49,baixo,Nao cobrar cliente
+490,225.13,17,baixo,Nao cobrar cliente
+997,100.0,1,baixo,Nao cobrar cliente
+489,100.0,55,baixo,Nao cobrar cliente
+1008,3013.96,24,baixo,Nao cobrar cliente
+466,2894.66,1,baixo,Nao cobrar cliente
+463,100.0,88,baixo,Nao cobrar cliente
+1020,100.0,88,baixo,Nao cobrar cliente
+457,1841.88,1,baixo,Nao cobrar cliente
+441,2694.01,1,baixo,Nao cobrar cliente
+1033,4160.14,56,baixo,Nao cobrar cliente
+1034,2726.21,38,baixo,Nao cobrar cliente
+439,1369.09,1,baixo,Nao cobrar cliente
+1037,100.0,40,baixo,Nao cobrar cliente
+1039,3828.0,55,baixo,Nao cobrar cliente
+1043,100.0,1,baixo,Nao cobrar cliente
+429,4949.21,41,baixo,Nao cobrar cliente
+1051,100.0,11,baixo,Nao cobrar cliente
+1059,3025.42,53,baixo,Nao cobrar cliente
+397,100.0,77,baixo,Nao cobrar cliente
+394,100.0,87,baixo,Nao cobrar cliente
+1066,602.98,1,baixo,Nao cobrar cliente
+391,2780.71,84,baixo,Nao cobrar cliente
+390,4393.63,35,baixo,Nao cobrar cliente
+383,4307.16,65,baixo,Nao cobrar cliente
+1077,100.0,78,baixo,Nao cobrar cliente
+1079,2903.56,64,baixo,Nao cobrar cliente
+1081,100.0,86,baixo,Nao cobrar cliente
+370,2391.66,85,baixo,Nao cobrar cliente
+368,958.14,1,baixo,Nao cobrar cliente
+365,4024.31,17,baixo,Nao cobrar cliente
+1331,100.0,31,baixo,Nao cobrar cliente
